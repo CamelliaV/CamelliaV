@@ -1,5 +1,5 @@
 <a href="https://camelliav.netlify.app">
-  <img src="https://storage.sekai.best/sekai-jp-assets/character/member/res015_no030_rip/card_after_training.webp" />
+  <img src="https://storage.sekai.best/sekai-jp-assets/character/member/res017_no045/card_after_training.png" />
 </a>
 <h4>About</h4>
 
